@@ -1,0 +1,6 @@
+# Colores oscuros
+FONDO_DARK = "#1a1b28"
+TEXTO_DARK = "white"
+BOTONES_ESPECIALES_DARK = "#52c9dc"
+BOTONES_DARK = "#1e2435"
+CAJA_TEXTO_DARK = "#1a1b28"
